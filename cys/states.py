@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 
-from alt import AbstractLineTreeManager, Node
+from cys.alt import AbstractLineTreeManager, Node
 
 
 class LineContext:

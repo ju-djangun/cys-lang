@@ -8,10 +8,10 @@ from pathlib import Path
 import typer
 from rich.console import Console
 
-from reader import line_grater
-from alt import AbstractLineTreeManager
-from states import LineContext, Begin
-from generator import generate
+from cys.reader import line_grater
+from cys.alt import AbstractLineTreeManager
+from cys.states import LineContext, Begin
+from cys.generator import generate
 
 basic_template_header = """#include <stdio.h>
 #include <stdlib.h>

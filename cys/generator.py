@@ -4,7 +4,7 @@ import tempfile
 
 from anytree.search import findall
 
-from states import LineContext
+from cys.states import LineContext
 
 
 class FileCreator:
