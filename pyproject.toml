@@ -5,7 +5,7 @@ description = "C Y Semicolon - C language without {;}"
 authors = ["ju-djangun <ju@djangun.com>"]
 readme = "README.md"
 
-[too.poetry.scripts]
+[tool.poetry.scripts]
 cys = "cys.main:app"
 
 [tool.poetry.dependencies]
