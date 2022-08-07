@@ -1,4 +1,7 @@
+__deprecated - move to [cyes](https://github.com/ju-djangun/cyes)__
+
 # CYS - C without {;}
+
 
 C Y Semicolons
 
